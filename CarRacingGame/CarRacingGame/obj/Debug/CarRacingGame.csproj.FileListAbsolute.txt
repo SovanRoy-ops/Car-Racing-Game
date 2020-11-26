@@ -1,0 +1,13 @@
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe.config
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.pdb
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csprojAssemblyReference.cache
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Form1.resources
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Properties.Resources.resources
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.GenerateResource.cache
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.CoreCompileInputs.cache
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.exe
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.pdb
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\bin\Debug\aa\CarRacingGame.resources.dll
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Form1.aa.resources
+C:\Users\SOVAN\source\repos\CarRacingGame\CarRacingGame\obj\Debug\aa\CarRacingGame.resources.dll
